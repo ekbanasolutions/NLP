@@ -1,0 +1,6 @@
+[submodule "EnglishNLP"]
+	path = EnglishNLP
+	url = https://github.com/ekbanasolutions/English-NLP.git
+[submodule "NepaliNLP"]
+	path = NepaliNLP
+	url = git@github.com:ekbanasolutions/Nepali-NLP.git
