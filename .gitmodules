@@ -4,3 +4,6 @@
 [submodule "NepaliNLP"]
 	path = NepaliNLP
 	url = git@github.com:ekbanasolutions/Nepali-NLP.git
+[submodule "AudioAnalysis"]
+	path = AudioAnalysis
+	url = https://github.com/ekbanasolutions/AudioAnalysis.git
